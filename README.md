@@ -10,7 +10,9 @@ In some cases, such as Diameter-2 Graphs, we had to run additional testing to ve
 
 # Results 
 Radius-1 Graphs (Stars, Wheels, Friendship, etc.) : Φ(R) ≤ 2
+
 Diameter-2 Graphs: Φ(D) ≤ ⌊√(4n+5)⌋ - 2
+
 Complete Graphs: Φ(K_n) = 1
 Complete k-Partite Graphs: Φ(K_m,n) ≤ 2
 Path Graphs: Φ(P_n) = 2^(n-2)
